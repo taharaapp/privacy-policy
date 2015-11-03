@@ -3,9 +3,9 @@ Name
 Date of Birth
 Social Security Number
 Addresses
-Driver's licnese
+Driver's license
 Banking information 
-Error and Ommissions Insurance Policy
+Error and Omissions  Insurance Policy
 Answers to background questions
 Insurance licenses
 
@@ -21,10 +21,10 @@ Insurance policy application questions
 Copies of insurance policy applications
 
 Information we send to other companies
-We send the information we collect from you to SuranceBay (a software company that faciliates your appointment with insurance carriers).  Your information is also shared with the insurance carriers in order to complete appointment applications.  We send information we collect on your clients to insurance carriers for the purpose of obtaining insurance.  Insurance application documents are sent to Paperclip who stores the documents as a backup service and also transmits the application securely to the insurance carrier.  Files are stored on Amazon Web Services for document storage.  These documents are encrypted and also use permisstions so that only specific users can access the documents.  
+We send the information we collect from you to SuranceBay (a software company that facilitates your appointment with insurance carriers).  Your information is also shared with the insurance carriers in order to complete appointment applications.  We send information we collect on your clients to insurance carriers for the purpose of obtaining insurance.  Insurance application documents are sent to Paperclip who stores the documents as a backup service and also transmits the application securely to the insurance carrier.  Files are stored on Amazon Web Services for document storage.  These documents are encrypted and also use permissions so that only specific users can access the documents.  
 
 Sending your information securely:
-Any sesitive information is sent securely.  Information sent or received through https://app.back9ins.com is sent over Secure Socket Layer (SSL).  Documents sent to insurance carriers are either uploaded to the carrier using their secure website or via Paperclip in order to securely send documents. Documents stored on Amazon Web Services are encrypted.  Our MYSQL database uses AES256 encryption on sensitive columns to ensure that if the database were to be comprimised, the sensitive data would be encrypted.  
+Any sensitive information is sent securely.  Information sent or received through https://app.back9ins.com is sent over Secure Socket Layer (SSL).  Documents sent to insurance carriers are either uploaded to the carrier using their secure website or via Paperclip in order to securely send documents. Documents stored on Amazon Web Services are encrypted.  Our MYSQL database uses AES256 encryption on sensitive columns to ensure that if the database were to be compromised, the sensitive data would be encrypted.  
 
 Cookie Policy:
 BackNine does not use cookies.
